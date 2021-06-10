@@ -1,15 +1,11 @@
 ```python
-print("hello 👋")
+> print("hello 👋")
+hello 👋
 ```
 
-### I'm currently working on:
-A `flask` website that let's you make and share your charts 📈
-Link: **[Repository](https://github.com/VL07/All_Visualizer "Repos main page")**
-
-And a [Discord bot](https://discord.com)
-Link: **[Repository](https://github.com/VL07/GamerBot2.0)**
+## I'm currently only active during coding jams where I need to use Github
+But somtimes I also create a new repo for one of my many projects <sub><sup><sub><sup><sub>that never gets finiched</sub></sup></sub></sup></sub>
 
 ```python
-import sys
-sys.exit()
+> exit()
 ```
