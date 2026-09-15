@@ -1,3 +1,4 @@
 # VL07
 
-👋 Hello!
+👋 Hello! Welcome to my profile.
+
